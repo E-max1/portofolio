@@ -1,0 +1,33 @@
+body{
+    background-color: darkkhaki
+    
+}
+
+div{
+    border: 10px solid;
+    border-radius: 10px 5px;
+    margin: 20px;
+    color: darkred;
+    border-color: firebrick;
+}
+
+h1{
+    text-align: center;
+    color: firebrick;
+}
+#photo{
+    position: relative;
+    left: 870px;
+    border: 2px solid bisque;
+}
+
+#Intro{
+    text-align: center;
+    border: 0px;
+}
+
+span{
+    
+    font-size: 20px;
+    color: crimson;
+}
